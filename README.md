@@ -1,6 +1,6 @@
 # npmtest-typeset
 
-#### test coverage for  [typeset (v0.2.2)](https://github.com/davidmerfield/Typeset.js)  [![npm package](https://img.shields.io/npm/v/npmtest-typeset.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-typeset) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-typeset.svg)](https://travis-ci.org/npmtest/node-npmtest-typeset)
+#### basic test coverage for  [typeset (v0.2.2)](https://github.com/davidmerfield/Typeset.js)  [![npm package](https://img.shields.io/npm/v/npmtest-typeset.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-typeset) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-typeset.svg)](https://travis-ci.org/npmtest/node-npmtest-typeset)
 
 #### Typesetting for the web
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-typeset/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-typeset/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-typeset/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-typeset/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-typeset/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-typeset/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-typeset/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-typeset/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-typeset/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-typeset/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-typeset/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-typeset/build/coverage.html/index.html)
 
