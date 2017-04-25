@@ -27,7 +27,7 @@
 <tspan x="10" y="394">  │ └── lodash@3.10.1 </tspan>
 <tspan x="10" y="410">  ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="426">  │ └── graceful-readlink@1.0.1 </tspan>
-<tspan x="10" y="442">  ├── html-entities@1.2.0 </tspan>
+<tspan x="10" y="442">  ├── html-entities@1.2.1 </tspan>
 <tspan x="10" y="458">  └── hypher@0.2.5</tspan>
 </text>
 </svg>
